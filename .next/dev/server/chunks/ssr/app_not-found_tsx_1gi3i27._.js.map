@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/admin/Downloads/aura_booking_platform/app/not-found.tsx"],"sourcesContent":["import Link from \"next/link\";\n\nexport default function NotFound() {\n  return (\n    <main className=\"w-full pt-20 min-h-dvh bg-background flex items-center justify-center px-gutter-mobile\">\n      <div className=\"max-w-lg space-y-space-md text-center\">\n        <p className=\"font-label-caps text-label-caps uppercase tracking-widest text-primary\">\n          Allocation Unavailable\n        </p>\n        <h1 className=\"font-headline-lg text-headline-lg-mobile md:text-headline-lg text-on-surface\">\n          This sanctuary is not in the current catalog.\n        </h1>\n        <Link\n          href=\"/sanctuaries\"\n          className=\"inline-flex px-space-lg py-space-sm bg-primary text-on-primary rounded font-label-md text-label-md uppercase tracking-wider\"\n        >\n          Return to Catalog\n        </Link>\n      </div>\n    </main>\n  );\n}\n"],"names":["NotFound","className","href"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,8OAAC;QAAKC,WAAU;kBACd,cAAA,8OAAC;YAAIA,WAAU;;8BACb,8OAAC;oBAAEA,WAAU;8BAAyE;;;;;;8BAGtF,8OAAC;oBAAGA,WAAU;8BAA+E;;;;;;8BAG7F,8OAAC,0LAAI;oBACHC,MAAK;oBACLD,WAAU;8BACX;;;;;;;;;;;;;;;;;AAMT"}}]
-}
