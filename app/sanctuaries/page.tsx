@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   title: "Sanctuaries",
 };
 
+
 export default function Page() {
   return <ExplorePage />;
 }
