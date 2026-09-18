@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" fill="none">
+  <path d="M24 12L36 44H12L24 12Z" stroke="#E2C399" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="24" cy="30" r="4" fill="#C5A880"/>
+  <text x="52" y="38" font-family="Syne, sans-serif" font-size="24" font-weight="600" letter-spacing="0.25em" fill="#E2C399">A U R A</text>
+</svg>
